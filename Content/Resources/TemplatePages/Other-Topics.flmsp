@@ -11,6 +11,10 @@
 			@import url('https://fonts.googleapis.com/css2?family=Raleway');
 		</style>
         <!-- End Raleway Font API Call -->
+		<!-- Back To Top Button -->
+		<script type="text/javascript" defer="defer" src="../Scripts/BackTotop.js">
+		</script>
+		<!-- End Back To Top Button -->	
     </head>
     <body>
         <div class="side-content">

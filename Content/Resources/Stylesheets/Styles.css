@@ -993,3 +993,30 @@ p.column
 	widows: 3;
 	orphans: 3;
 }
+
+/* Back To Top Button === This section contains the CSS code for styling the Back To Top button */
+
+#myBtn
+{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-color: var(--Brand1);
+}
+
+#myBtn:hover
+{
+    color: var(--Gray);
+}
