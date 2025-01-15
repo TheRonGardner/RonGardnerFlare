@@ -11,7 +11,7 @@
   DefaultUrl="/Content/Home.htm"
   OutputFile="index.html"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
-  Skin="/Project/Skins/SideNav.flskn"
+  Skin="/Project/Skins/Top-Navigation.flskn"
   MenuSkin="/Project/Skins/Topics-Menu.flskn"
   ResolveCssVariables="true"
   UseCustomTopicFileExtension="true"
