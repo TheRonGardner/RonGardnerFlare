@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Linkedin"
+    EvaluatedDefinition="https://www.linkedin.com/in/ron-gardner-6994b819/">https://www.linkedin.com/in/ron-gardner-6994b819/</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="rongardnerbbqreviews@gmail.com">rongardnerbbqreviews@gmail.com</Variable>
+  <Variable
+    Name="Instagram"
+    Comment=""
+    EvaluatedDefinition="https://www.instagram.com/rondan88/">https://www.instagram.com/rondan88/</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    EvaluatedDefinition="McKinney, TX, 75070">McKinney, TX, 75070</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="Texas BBQ Travels">Texas BBQ Travels</Variable>
+  <Variable
+    Name="Location"
+    Comment=""
+    EvaluatedDefinition="Click this link to view the location on Google Maps.">Click this link to view the location on Google Maps.</Variable>
+  <Variable
+    Name="ImageTip"
+    Comment=""
+    EvaluatedDefinition="Click this image to expand it. Click it again to close it.">Click this image to expand it. Click it again to close it.</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="Click this link to open this restaurant's website.">Click this link to open this restaurant's website.</Variable>
+  <Variable
+    Name="EmailTooltip"
+    Comment=""
+    EvaluatedDefinition="Click this link to send me an email!">Click this link to send me an email!</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2023-08-29T21:42:47.2706797-05:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

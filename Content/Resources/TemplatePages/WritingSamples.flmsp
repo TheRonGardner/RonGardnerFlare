@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <!-- Arvo Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Arvo');
+		</style>
+        <!-- End Raleway Font API Call -->
+        <!-- Raleway Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Raleway');
+		</style>
+        <!-- End Raleway Font API Call -->
+    </head>
+    <body>
+        <div class="side-content">
+            <MadCap:searchBarProxy data-mc-skin="/Project/Skins/Topics-Searchbar.flskn" />
+        </div>
+        <div>
+            <MadCap:breadcrumbsProxy />
+        </div>
+        <div class="topic-layout">
+            <div class="side-content">
+                <MadCap:menuProxy data-mc-skin="/Project/Skins/Topics-Menu.flskn" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+            </div>
+            <p>&#160;</p>
+            <MadCap:bodyProxy />
+        </div>
+        <hr />
+        <p class="footer" MadCap:autonum="&lt;b&gt;Note:&#160;&lt;/b&gt;">Thanks for taking the time to look over my writing samples. If you have any questions, feel free to reach out, ron.gardner@icloud.com.</p>
+        <p style="font-size: 10pt;">Copyright © <MadCap:variable name="General.Year" /></p>
+    </body>
+</html>

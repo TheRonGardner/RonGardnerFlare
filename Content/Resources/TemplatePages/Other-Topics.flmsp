@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <!-- Arvo Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Arvo');
+		</style>
+        <!-- End Raleway Font API Call -->
+        <!-- Raleway Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Raleway');
+		</style>
+        <!-- End Raleway Font API Call -->
+    </head>
+    <body>
+        <div class="side-content">
+            <MadCap:searchBarProxy data-mc-skin="/Project/Skins/Topics-Searchbar.flskn" />
+        </div>
+        <div>
+            <MadCap:breadcrumbsProxy />
+        </div>
+        <div class="topic-layout">
+            <div class="side-content"> <MadCap:menuProxy data-mc-skin="/Project/Skins/Topics-Menu.flskn" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" /></div>
+            <MadCap:bodyProxy />
+        </div>
+        <hr />
+        <p class="footer" MadCap:autonum="&lt;b&gt;Note:&#160;&lt;/b&gt;">If you want to get cranky about a review, my contact information is on the <a href="../../Home.htm">Home</a> and <a href="../../Howdy/AboutMe.htm">About Me</a> pages.</p>
+        <p style="font-size: 10pt;">Copyright © <MadCap:variable name="General.Year" /></p>
+    </body>
+</html>

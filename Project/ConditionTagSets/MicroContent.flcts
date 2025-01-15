@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment="Content in the topic output only and omitted from the micro content."
+    Name="Topic"
+    BackgroundColor="Red"
+    OriginalName="Topic" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="MicroContent"
+    Comment="Content for mico content only and omitted from the topic output."
+    OriginalName="MicroContent" />
+</CatapultConditionTagSet>

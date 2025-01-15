@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder=""
+  LastImport="2023-08-15T17:52:47.1099497-05:00">
+  <Files>
+    <Url
+      Source="../../../../../Users/TheRonGardner/Documents/rongardner_resume.docx"
+      AbsoluteSource="file:///C:/Users/TheRonGardner/Documents/rongardner_resume.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/rongardner_resume/Ron GardnerLead Technical.png"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../../Content/Ron GardnerLead Technical.htm"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../../Content/Introduction.htm"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../../Content/Software Applications.htm"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../../Content/Experience.htm"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../TOCs/rongardner_resume.fltoc"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/rongardner_resume.flmsp"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/rongardner_resume.css"
+      TimeStamp="8/15/2023 5:52:42 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Body Text Indent"
+      To="p.BodyTextIndent"
+      Style="Word" />
+    <Map
+      From="Heading 1"
+      To="h1.Heading1"
+      Style="Word" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading2"
+      Style="Word" />
+    <Map
+      From="Title"
+      To="p.Title"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Page Number"
+      To="span.PageNumber"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>

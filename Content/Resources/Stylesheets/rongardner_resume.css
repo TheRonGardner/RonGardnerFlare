@@ -1,0 +1,596 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\TheRonGardner\Documents\rongardner_resume.docx" />*/
+
+p
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-family: 'Times New Roman';
+	font-size: 12pt;
+	vertical-align: top;
+}
+
+p.BodyTextIndent
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 23pt;
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+p.Title
+{
+	font-size: 12pt;
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	color: #000000;
+}
+
+span.span_1
+{
+	font-family: Roboto;
+	font-size: 18pt;
+}
+
+span.span_2
+{
+	font-family: Roboto;
+	font-size: 16pt;
+}
+
+p.Title_1
+{
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+	font-weight: bold;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 16pt;
+}
+
+img.img_1
+{
+	width: 93px;
+	height: 93px;
+}
+
+p.Title_2
+{
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+	font-weight: bold;
+	color: #000000;
+	margin-bottom: 6pt;
+	font-family: Roboto;
+	font-size: 14pt;
+}
+
+p.p_1
+{
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+	font-family: Roboto;
+	color: #000000;
+	font-size: 10pt;
+}
+
+span.span_3
+{
+	font-family: Roboto;
+	color: #000000;
+	font-size: 10pt;
+}
+
+p.p_2
+{
+	orphans: 2;
+	widows: 2;
+	text-align: center;
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	margin-left: 23pt;
+	mc-heading-level: 1;
+	font-family: Arial;
+	font-weight: bold;
+	color: #000000;
+	font-size: 10pt;
+}
+
+li.BodyTextIndent
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 23pt;
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+h1.Heading1_1
+{
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	margin-left: 23pt;
+	mc-heading-level: 1;
+	font-weight: bold;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 16pt;
+}
+
+span.span_4
+{
+	font-family: Roboto;
+}
+
+p.BodyTextIndent_1
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Arial;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+}
+
+p.BodyTextIndent_2
+{
+	orphans: 2;
+	widows: 2;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+	font-family: Roboto;
+}
+
+p.BodyTextIndent_3
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Arial;
+	font-size: 10pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+}
+
+p.BodyTextIndent_4
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 23pt;
+	font-size: 10pt;
+	font-family: Roboto;
+}
+
+li.BodyTextIndent_1
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 23pt;
+	font-size: 10pt;
+	font-family: Roboto;
+}
+
+ul.ul_1
+{
+	padding-left: 0px;
+	list-style-type: disc;
+	margin-left: 54pt;
+}
+
+p.p_3
+{
+	orphans: 2;
+	widows: 2;
+}
+
+ul.ul_2
+{
+	padding-left: 0px;
+	list-style-type: disc;
+	margin-left: 81pt;
+}
+
+h2.Heading2
+{
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	margin-left: 9pt;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-weight: bold;
+	color: #000000;
+	font-size: 10pt;
+}
+
+span.span_5
+{
+	font-family: Roboto;
+	font-weight: bold;
+	color: #000000;
+}
+
+p.p_4
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 6pt;
+	margin-left: 18pt;
+}
+
+p.p_5
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 18pt;
+	font-family: Roboto;
+	color: #000000;
+	font-size: 11pt;
+}
+
+span.span_6
+{
+	font-family: Roboto;
+	color: #000000;
+	font-size: 11pt;
+}
+
+p.p_6
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 3pt;
+	margin-left: 18pt;
+}
+
+p.p_7
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 18pt;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+span.span_7
+{
+	font-family: Roboto;
+	font-size: 10pt;
+}
+
+p.p_8
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 6pt;
+	margin-left: 18pt;
+}
+
+p.p_9
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 3pt;
+	margin-left: 18pt;
+	font-family: Roboto;
+	font-size: 10pt;
+}
+
+p.p_10
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 3pt;
+	font-family: Roboto;
+	font-size: 10pt;
+}
+
+li.li_1
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 3pt;
+	font-family: Roboto;
+	font-size: 10pt;
+}
+
+span.span_8
+{
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+p.p_11
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 6pt;
+}
+
+p.p_12
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 6pt;
+}
+
+p.p_13
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Roboto;
+	font-weight: bold;
+	color: #000000;
+}
+
+p.p_14
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Roboto;
+	color: #000000;
+	font-size: 11pt;
+}
+
+p.p_15
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+p.p_16
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 12pt;
+}
+
+p.p_17
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 3pt;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+span.span_9
+{
+	font-family: Roboto;
+	font-weight: bold;
+	color: #000000;
+	font-size: 10pt;
+}
+
+p.p_18
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 3pt;
+}
+
+p.p_19
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 12pt;
+	font-family: Roboto;
+	font-weight: bold;
+	color: #000000;
+}
+
+p.p_20
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 12pt;
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+span.span_10
+{
+	font-family: Roboto;
+	font-size: 11pt;
+}
+
+ul.ul_3
+{
+	padding-left: 0px;
+	list-style-type: disc;
+	margin-left: 57pt;
+}
+
+p.BodyTextIndent_5
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Arial;
+	font-size: 10pt;
+	margin-bottom: 3pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+}
+
+span.span_11
+{
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+p.BodyTextIndent_6
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Arial;
+	font-size: 10pt;
+	margin-top: 3pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+}
+
+p.BodyTextIndent_7
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Arial;
+	font-size: 10pt;
+	margin-bottom: 6pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+}
+
+p.p_21
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 12pt;
+	margin-left: 18pt;
+}
+
+p.p_22
+{
+	orphans: 2;
+	widows: 2;
+	margin-left: 18pt;
+	font-family: Roboto;
+	font-size: 11pt;
+}
+
+span.span_12
+{
+	font-family: Roboto;
+	color: #000000;
+}
+
+p.p_23
+{
+	orphans: 2;
+	widows: 2;
+	margin-top: 12pt;
+	margin-left: 18pt;
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+p.p_24
+{
+	orphans: 2;
+	widows: 2;
+	margin-bottom: 3pt;
+	margin-left: 18pt;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+p.BodyTextIndent_8
+{
+	orphans: 2;
+	widows: 2;
+	font-size: 10pt;
+	margin-bottom: 3pt;
+	margin-left: 18pt;
+	margin-right: 40pt;
+	font-family: Roboto;
+}
+
+h2.Heading2_1
+{
+	page-break-after: avoid;
+	orphans: 2;
+	widows: 2;
+	margin-left: 9pt;
+	mc-heading-level: 2;
+	font-weight: bold;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 16pt;
+}
+
+p.BodyTextIndent_9
+{
+	orphans: 2;
+	widows: 2;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-left: 18pt;
+	font-family: Roboto;
+}
+
+p.p_25
+{
+	margin-left: 5pt;
+	margin-right: 5pt;
+	text-align: right;
+}
+
+span.PageNumber_1
+{
+	font-family: Calibri;
+}
+
+p.BodyTextIndent_10
+{
+	orphans: 2;
+	widows: 2;
+	font-family: Arial;
+	font-size: 10pt;
+	border-top-style: solid;
+	border-top-width: 2pt;
+	border-top-color: black;
+	margin-left: 9pt;
+}
+

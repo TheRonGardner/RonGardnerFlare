@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <!-- Arvo Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Arvo');
+		</style>
+        <!-- End Arvo Font API Call -->
+        <!-- Raleway Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Raleway');
+		</style>
+        <!-- End Raleway Font API Call -->
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <div class="home-footer">
+            <table style="width: 100%;">
+                <col />
+                <col />
+                <tbody>
+                    <tr>
+                        <td>
+                            <h3 class="Home">My Contact Information</h3>
+                            <p class="Home"><a href="mailto:rongardnerbbqreviews@gmail.com?subject=Hi Ron, I Saw Your Website!" style="color: #ffffff;">Email</a>
+                            </p>
+                            <p class="Home"><a href="[%=General.Linkedin%]" style="color: #ffffff;">Linkedin</a>
+                            </p>
+                            <p class="Home"><a href="[%=General.Instagram%]" style="color: #ffffff;">Instagram</a>
+                            </p>
+                        </td>
+                        <td style="text-align: right;">
+                            <img src="../Images/RonSaltLick.jpg" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <hr class="main-section" />
+        <p class="footer" MadCap:autonum="&lt;b&gt;Note:&#160;&lt;/b&gt;">If you want to get cranky about a review, my contact information is listed above.</p>
+        <p style="font-size: 10pt;">Copyright © <MadCap:variable name="General.Year" /></p>
+    </body>
+</html>

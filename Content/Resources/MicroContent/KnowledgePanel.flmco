@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True" MadCap:conditions="">
+    <MicroContent id="hutchins">
+        <MicroContentPhrase>Hutchins</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Locations:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Hutchins+BBQ/@33.1611373,-96.783823,11z/data=!4m8!1m2!2m1!1shutchins+bbq!3m4!1s0x864c12515b442763:0xe83d968dd33f4c8e!8m2!3d33.2112068!4d-96.615518" xhtml:target="_blank" xhtml:title="[%=General.Location%]">McKinney</xhtml:a>/<xhtml:a xhtml:href="https://www.google.com/maps/place/Hutchins+BBQ/@33.1545228,-96.8047733,15z/data=!4m2!3m1!1s0x0:0x1a28109b8a479706?sa=X&amp;ved=2ahUKEwjZgNTioNXzAhVdhf0HHe8GC4gQ_BJ6BAh7EAU" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Frisco</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 1978</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Tim Hutchins/John Mueller*</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://hutchinsbbq.com/" xhtml:target="_blank">hutchinsbbq.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="new-phrase">
+        <MicroContentPhrase>Sideways</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Sideways/@32.8895866,-96.4835452,17z/data=!3m1!4b1!4m5!3m4!1s0x864eaa17e9e8615d:0xb55bded23b0057b8!8m2!3d32.8896094!4d-96.4812416" xhtml:target="_blank" xhtml:title="Click this link to view the location on Google Maps.">Rockwall</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2017?</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Josh Deaton</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://sidewaysbbq.com/" xhtml:target="_blank">sidewaysbbq.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="bodacious">
+        <MicroContentPhrase>Bodacious</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Bodacious+Bar-B-Q/@32.512281,-94.5977487,15z/data=!4m2!3m1!1s0x0:0x8f39893280c81026?sa=X&amp;ved=2ahUKEwiuorHekuTzAhUhIDQIHefBAE0Q_BJ6BAhtEAM" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Hallsville, TX</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2013</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Gabriel Ritter</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.facebook.com/BodaciousHallsville/" xhtml:target="_blank" xhtml:title="Click this link to open the Facebook page for the Bodacious BBQ Hallsville location.">Facebook page</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="franklin">
+        <MicroContentPhrase>Franklin</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Franklin+Barbecue/@30.2701188,-97.7335043,17z/data=!4m12!1m6!3m5!1s0x8644b5a4ae3bcc33:0x31aba8abf8f64c84!2sFranklin+Barbecue!8m2!3d30.2701287!4d-97.7313441!3m4!1s0x8644b5a4ae3bcc33:0x31aba8abf8f64c84!8m2!3d30.2701287!4d-97.7313441" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Austin</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2009</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Aaron Franklin</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://franklinbbq.com/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">franklinbbq.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="grist-mill">
+        <MicroContentPhrase>Grist Mill</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Gristmill+River+Restaurant+%26+Bar/@29.738203,-98.105163,15z/data=!4m5!3m4!1s0x0:0x93eebecaa5b65d49!8m2!3d29.738203!4d-98.105163" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Gruene</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 1977</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: N/A</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="http://gristmillrestaurant.com/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">gristmillrestaurant.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="salt-lick">
+        <MicroContentPhrase>Salt Lick</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Locations:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/The+Salt+Lick+BBQ/@30.1317253,-98.0155212,17z/data=!3m1!4b1!4m5!3m4!1s0x865c8fbc1a4f1091:0x57cbce046a53e6b!8m2!3d30.1317253!4d-98.0133325" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Driftwood</xhtml:a>/<xhtml:a xhtml:href="https://www.google.com/maps/place/Salt+Lick/@30.5254752,-97.6326469,15z/data=!4m5!3m4!1s0x0:0x6cad3e47923e670!8m2!3d30.5254752!4d-97.6326469" xhtml:target="_blank">Round Rock</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 1967</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Scott Roberts</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://saltlickbbq.com/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">saltlickbbq.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="brisket-love">
+        <MicroContentPhrase>Brisket Love</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Brisket+Love+Barbecue+%26+Icehouse/@32.4891213,-95.431801,15z/data=!4m5!3m4!1s0x0:0xe4758f2f08ae1fcc!8m2!3d32.4891213!4d-95.431801" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Lindale, TX</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2019</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Craig Wood</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://brisketlovetx.com/" xhtml:target="_blank" xhtml:title="Click this link to open the Brisket Love website.">brisketlovetx.com</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Visited:&#160;9/9/22</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="new-phrase-1">
+        <MicroContentPhrase>Carter's</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Carter's+Bar-B-Que/@32.4849473,-94.7078924,15z/data=!4m2!3m1!1s0x0:0xb281453db9e80618?sa=X&amp;ved=2ahUKEwj4vde31ZXvAhXYWM0KHZd4CgQQ_BIwEnoECCEQBQ" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Longview, TX</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 1994</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Curt Carter</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.facebook.com/pages/category/Barbecue-Restaurant/Carters-Bar-B-Que-114926498594505/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">Facebook page</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="stanley-s">
+        <MicroContentPhrase>Stanley's</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Stanley’s+Famous+Pit+Bar-B-Q/@32.3440818,-95.2940425,15z/data=!4m5!3m4!1s0x0:0x9fe687b5066218c4!8m2!3d32.3440818!4d-95.2940425" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Tyler, TX</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 1959</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Nick Pencis</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.stanleysfamous.com/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">stanleysfamous.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="leon-s">
+        <MicroContentPhrase>Leon's</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Leon's+World+Finest+Bar-B-Que/@29.290237,-94.8283977,15z/data=!4m5!3m4!1s0x0:0xa7355ce73737e921!8m2!3d29.290237!4d-94.8283977" xhtml:target="_blank" xhtml:title="[%=General.Location%][%=General.Website%]">Galveston</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2003</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Leon O'Neal</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://leonsbbq.com/index.html" xhtml:target="_blank" xhtml:title="[%=General.Website%]">leonsbbq.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="pinkerton-s">
+        <MicroContentPhrase>Pinkerton's</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Locations:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Pinkerton's+Barbecue/@29.798664,-95.381528,15z/data=!4m12!1m6!3m5!1s0x0:0x5dc90813516aa52c!2sPinkerton's+Barbecue!8m2!3d29.798664!4d-95.381528!3m4!1s0x0:0x5dc90813516aa52c!8m2!3d29.798664!4d-95.381528" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Houston</xhtml:a>/<xhtml:a xhtml:href="https://www.google.com/maps/place/Pinkerton's+Barbecue/@29.4271376,-98.4941288,15z/data=!4m2!3m1!1s0x0:0xe8c147f61a453929?sa=X&amp;ved=2ahUKEwj05bO1odXzAhXZqZUCHWEOCbwQ_BJ6BAhjEAU" xhtml:target="_blank" xhtml:title="[%=General.Location%]">San Antonio</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2016</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Grant Pinkerton</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.pinkertonsbarbecue.com/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">pinkertonsbarbecue.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="stingaree">
+        <MicroContentPhrase>Stingaree</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/Stingaree+Restaurant+%26+Marina/@29.4819419,-94.6051346,15z/data=!4m5!3m4!1s0x0:0x1f9cf07891bd1a16!8m2!3d29.4819802!4d-94.6049991" xhtml:target="_blank" xhtml:title="[%=General.Location%]">Crystal Beach</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: Unknown</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: N/A</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.stingaree.com/" xhtml:target="_blank" xhtml:title="[%=General.Website%]">stingaree.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="2m-smokehouse">
+        <MicroContentPhrase>2M Smokehouse</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;<xhtml:a xhtml:href="https://www.google.com/maps/place/2M+Smokehouse/@29.3824791,-98.4049155,15z/data=!4m2!3m1!1s0x0:0xe0e431d387677804?sa=X&amp;ved=2ahUKEwiGzYav0pXvAhUFac0KHeJUCl0Q_BIwG3oECDMQBQ" xhtml:target="_blank" xhtml:title="Click this link to view the location on Google Maps." xhtml:alt="Click this link to view the location on Google Maps.">San Antonio</xhtml:a></xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 2016</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: Esaul Ramos</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.2msmokehouse.com/" xhtml:title="Click this link to view the 2M Smokehouse website." xhtml:alt="Click this link to view the 2M Smokehouse website.">2msmokehouse.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent id="bill-miller">
+        <MicroContentPhrase>Bill Miller</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:h2 MadCap:conditions="MicroContent.Topic">General Information</xhtml:h2>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Location:&#160;Multiple locations in San Antonio and surrounding areas</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Date Established: 1953</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Pitmaster: N/A</xhtml:p>
+                    <xhtml:p MadCap:conditions="MicroContent.Topic">Website: <xhtml:a xhtml:href="https://www.billmillerbbq.com/" xhtml:target="_blank">billmillerbbq.com</xhtml:a></xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

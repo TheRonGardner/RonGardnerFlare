@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="AuthorNote">This template was used for reviews before 9/9/22.</p>
+        <h1>Name of Joint</h1>
+        <h2>General Information</h2>
+        <p>Location:&#160;Name of the city, linked to the Google Maps URL</p>
+        <p>Date Established: </p>
+        <p>Pitmaster: </p>
+        <p>Website: </p>
+        <h2>Overview</h2>
+        <p>A quick overview of my experience there.</p>
+        <h2>Ron Recommends</h2>
+        <p>What I ate there (e.g., <span class="FoodName">burnt ends</span>) and how I felt about it.</p>
+        <h2>Ron Rates It</h2>
+        <p>My five-star rating.</p>
+        <p>
+            <img src="../Images/yellow_star.png" />
+            <img src="../Images/yellow_star.png" /><a href="../Images/yellow_star.png"><img src="../Images/yellow_star.png" /><img src="../Images/yellow_star.png" /><img src="../Images/yellow_star.png" /><img src="../Images/yellow_half_star.png" /></a>
+        </p>
+        <p class="know" MadCap:autonum="&lt;b&gt;Know Before You Go: &lt;/b&gt;">Stuff that is good to know before you get there.</p>
+    </body>
+</html>

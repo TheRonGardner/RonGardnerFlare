@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Website Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.BlogOnly], exclude[Default.Certification or Default.InProcess or Default.InternalOnly or Default.PrintOnly]"
+  MasterToc="/Project/TOCs/Online.fltoc"
+  DefaultUrl="/Content/Home.htm"
+  OutputFile="index.html"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  Skin="/Project/Skins/SideNav.flskn"
+  MenuSkin="/Project/Skins/Topics-Menu.flskn"
+  ResolveCssVariables="true"
+  UseCustomTopicFileExtension="true"
+  CustomTopicFileExtension="html"
+  MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
+  EnableSitemap="true"
+  SitemapWebUrl="http://www.rongardnerbbqreview.com"
+  PartialWordSearch="true"
+  SearchResultsSkin="/Project/Skins/SearchResults.flskn"
+  ContentInclusionType="All">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Blog.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+  <PostBuild></PostBuild>
+</CatapultTarget>

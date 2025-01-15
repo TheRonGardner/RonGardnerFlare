@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="PDF Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/CentralTexas/CTXIntro.htm"
+  MasterToc="/Project/TOCs/rongardner_resume.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  OutputFile="RGCTXBBQ"
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.InternalOnly or Default.WebOnly]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/PDF.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+  <DocumentProperties
+    Author="Ron Gardner" />
+  <PDF
+    DownsampleImages="true"
+    ShowUsedBookmarks="false" />
+</CatapultTarget>

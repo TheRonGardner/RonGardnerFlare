@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultMetaTagSet Comment="Meta Tag Set" name="Regions of Texas" desc="Set indicating area of Texas">
+    <meta name="Region" content="" type="Enum" enum="Central,East,Gulf Coast,North Texas,South Texas" desc="Area of Texas" />
+</CatapultMetaTagSet>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>boudin</Term>
+    </Terms>
+    <Definition
+      Link="">A type of sausage stuffed with some type of meat (usually pork, but could be other things such as seafood), rice, various vegetables, and seasonings. Very popular throughout Louisiana and eastern Texas.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>burnt ends</Term>
+    </Terms>
+    <Definition
+      Link="">Extremely flavorful, heavily carmelized pieces of meat (e.g., brisket or pork belly) cut from the edge.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>barbacoa</Term>
+    </Terms>
+    <Definition
+      Link="">Beef - usually cut from the cheek - slow cooked, traditionally in pits in the ground until juicy and tender. Great when shredded and served as street tacos.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term7"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>moist brisket</Term>
+    </Terms>
+    <Definition
+      Link="">Meat from the more marbled and flavorful part of a beef brisket. AKA "fatty" or "point-cut" brisket.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>elotes</Term>
+    </Terms>
+    <Definition
+      Link="">AKA Mexican street corn. Grilled fresh corn smothered in a creamy mayonnaise sauce and topped with chili powder, cheese, and lime juice.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term9">
+    <Terms>
+      <Term>Pollyanna</Term>
+    </Terms>
+    <Definition>Per Webster: "A person characterized by irrepressible optimism and a tendency to find good in everything."</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term10">
+    <Terms>
+      <Term>chicharoni</Term>
+    </Terms>
+    <Definition>Crushed pork rinds.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term11"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Hill Country</Term>
+    </Terms>
+    <Definition
+      Link="">A picturesque area of Texas including Austin and the surrounding area to the south and west. Famous for its lakes and rivers. And hills, of course.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>butterflied</Term>
+    </Terms>
+    <Definition
+      Link="">A piece of meat cut down the middle just enough to not separate the two pieces but leave them connected by a thin strip. A properly butterflied piece of meat should resemble an open book.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>hot links</Term>
+    </Terms>
+    <Definition
+      Link="">A spicy sausage common in eastern Texas and parts of Louisiana. Sometimes it is more loosely packed than traditional sausage and has an internal texture closer to meatloaf.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>off the pit</Term>
+    </Terms>
+    <Definition
+      Link="">When you order by the pound (quarter-pound, half-pound, etc.) in front of the pitmaster, who cuts off roughy the amount you require and gives it to you directly.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>smoke ring</Term>
+    </Terms>
+    <Definition
+      Link="">A reddish/pink discoloration of meat just under the surface crust. Widely considered to be one of the most desirable characteristics of good barbecue.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term12">
+    <Terms>
+      <Term>homer</Term>
+    </Terms>
+    <Definition>Someone who shows blind loyalty to a team or organization.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term13"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>toobing</Term>
+    </Terms>
+    <Definition
+      Link="">A recreational activity where a person floats down a river atop a large, inflated inner tube. I spent many lazy teenage weekends doing just that.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term14"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Texas Trinity</Term>
+    </Terms>
+    <Definition
+      Link="">Beef brisket, pork ribs, and pork sausage.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

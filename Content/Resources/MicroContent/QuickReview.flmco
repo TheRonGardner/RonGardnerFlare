@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." MadCap:isSortedByPhrase="True" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <MicroContent id="salt-lick" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Salt Lick</MicroContentPhrase>
+        <MicroContentPhrase>Driftwood</MicroContentPhrase>
+        <MicroContentPhrase>Family Style</MicroContentPhrase>
+        <MicroContentResponse href="../../CentralTexas/SaltLick.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="carters" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Carters</MicroContentPhrase>
+        <MicroContentPhrase>Longview</MicroContentPhrase>
+        <MicroContentResponse href="../../EastTexas/Carters.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="stanleys" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Stanleys</MicroContentPhrase>
+        <MicroContentPhrase>Brother in Law</MicroContentPhrase>
+        <MicroContentPhrase>Tyler</MicroContentPhrase>
+        <MicroContentPhrase>BBQ Frito Pie</MicroContentPhrase>
+        <MicroContentResponse href="../../EastTexas/Stanleys.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hutchins" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Hutchins</MicroContentPhrase>
+        <MicroContentPhrase>McKinney</MicroContentPhrase>
+        <MicroContentPhrase>Texas Twinkie</MicroContentPhrase>
+        <MicroContentResponse href="../../NorthTexas/Hutchins.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="sideways" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Sideways</MicroContentPhrase>
+        <MicroContentPhrase>meh</MicroContentPhrase>
+        <MicroContentPhrase>Rockwall</MicroContentPhrase>
+        <MicroContentResponse href="../../NorthTexas/Sideways.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="grist-mill" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Grist Mill</MicroContentPhrase>
+        <MicroContentPhrase>Guadalupe River</MicroContentPhrase>
+        <MicroContentPhrase>Gruene</MicroContentPhrase>
+        <MicroContentResponse href="../../CentralTexas/GristMill.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="winners" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Winners</MicroContentPhrase>
+        <MicroContentPhrase>goat</MicroContentPhrase>
+        <MicroContentPhrase>Plano</MicroContentPhrase>
+        <MicroContentResponse href="../../NorthTexas/Winners.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="stingaree" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Stingaree</MicroContentPhrase>
+        <MicroContentPhrase>barbecue crabs</MicroContentPhrase>
+        <MicroContentPhrase>Crystal Beach</MicroContentPhrase>
+        <MicroContentPhrase>jerk shrimp</MicroContentPhrase>
+        <MicroContentResponse href="../../GulfCoast/Stingaree.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="2m-smokehouse" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>2M Smokehouse</MicroContentPhrase>
+        <MicroContentPhrase>elotes</MicroContentPhrase>
+        <MicroContentPhrase>San Antonio</MicroContentPhrase>
+        <MicroContentResponse href="../../SouthTexas/2MSmokehouse.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="bill-miller" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Bill Miller</MicroContentPhrase>
+        <MicroContentResponse href="../../SouthTexas/BillMiller.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="pinkerton-s" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Pinkerton's</MicroContentPhrase>
+        <MicroContentPhrase>banana cake</MicroContentPhrase>
+        <MicroContentPhrase>Houston</MicroContentPhrase>
+        <MicroContentResponse href="../../GulfCoast/Pinkertons.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="leon-s" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Leon's</MicroContentPhrase>
+        <MicroContentPhrase>Galveston</MicroContentPhrase>
+        <MicroContentPhrase>sweet potato pie</MicroContentPhrase>
+        <MicroContentResponse href="../../GulfCoast/Leons.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="franklin" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Franklin</MicroContentPhrase>
+        <MicroContentResponse href="../../CentralTexas/FranklinBBQ.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="brisket-love" MadCap:conditionTagExpression="exclude[MicroContent.Topic]">
+        <MicroContentPhrase>Brisket Love</MicroContentPhrase>
+        <MicroContentResponse href="../../EastTexas/BrisketLove.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="bodacious" MadCap:conditionTagExpression="include[MicroContent.MicroContent], exclude[MicroContent.Topic]">
+        <MicroContentPhrase>bodacious</MicroContentPhrase>
+        <MicroContentResponse href="../../EastTexas/BodaciousHallsville.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

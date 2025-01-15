@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment="Content intended only for PDF/print."
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    Name="WebOnly"
+    Comment="Content intended only for HTML/online output."
+    BackgroundColor="#5f9ea0" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="InternalOnly"
+    Comment="Content that is available only in the Flare source files."
+    OriginalName="AuthorNote" />
+  <ConditionTag
+    BackgroundColor="#7cfc00"
+    Name="BlogOnly"
+    Comment="Content intended only for the blog and not part of the certification project."
+    OriginalName="BlogOnly" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="InProcess"
+    Comment="Content that is incomplete and not yet ready for inclusion in any outputs." />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Certification"
+    Comment="Content specific to certification and not intended for the blog." />
+</CatapultConditionTagSet>

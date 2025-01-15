@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
+  ConditionTagExpression="include[Default.Certification or Default.InternalOnly or Default.WebOnly], exclude[Default.BlogOnly or Default.InProcess or Default.PrintOnly]"
+  ShowMadCapBacklink="false"
+  MasterToc="/Project/TOCs/Online.fltoc"
+  DefaultUrl="/Content/Home.htm"
+  Skin="/Project/Skins/SideNav.flskn"
+  MenuSkin="/Project/Skins/Topics-Menu.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  TabletBreakpoint="800"
+  MobileBreakpoint="800"
+  UseCustomTopicFileExtension="true"
+  CustomTopicFileExtension="html"
+  MoveOutputContentToRoot="false"
+  OutputFile="index.html">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/HTML.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="SelectedFiles"
+      numberOfResults="1">
+      <microContentSubset>
+        <file
+          link="/Content/Resources/MicroContent/QuickReview.flmco" />
+        <file
+          link="/Content/Resources/MicroContent/Top3s.flmco" />
+      </microContentSubset>
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="SelectedFiles"
+      numberOfResults="1">
+      <microContentSubset>
+        <file
+          link="/Content/Resources/MicroContent/KnowledgePanel.flmco" />
+      </microContentSubset>
+    </KnowledgePanel>
+  </MicroContentSearch>
+</CatapultTarget>

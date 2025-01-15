@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="best-overall">
+        <MicroContentPhrase>best overall</MicroContentPhrase>
+        <MicroContentPhrase>best barbecue joint</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="best-brisket">
+        <MicroContentPhrase>best brisket</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="best-sausage">
+        <MicroContentPhrase>best sausage</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent3" />
+    </MicroContent>
+    <MicroContent id="best-pork-ribs">
+        <MicroContentPhrase>best pork ribs</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent4" />
+    </MicroContent>
+    <MicroContent id="best-beef-ribs">
+        <MicroContentPhrase>best beef ribs</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent5" />
+    </MicroContent>
+    <MicroContent id="best-sandwich">
+        <MicroContentPhrase>best sandwich</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent6" />
+    </MicroContent>
+    <MicroContent id="best-specialty-item">
+        <MicroContentPhrase>best specialty item</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent7" />
+    </MicroContent>
+    <MicroContent id="best-side-dish">
+        <MicroContentPhrase>best side dish</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent8" />
+    </MicroContent>
+    <MicroContent id="best-dessert">
+        <MicroContentPhrase>best dessert</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent9" />
+    </MicroContent>
+    <MicroContent id="best-turkey">
+        <MicroContentPhrase>best turkey</MicroContentPhrase>
+        <MicroContentResponse href="../../MoreInfo/Top3s.htm#microcontent10" />
+    </MicroContent>
+</MicroContentSet>

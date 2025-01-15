@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="AuthorNote">This topic template is used for reviews after 9//9/22 (after the <a href="../../EastTexas/BrisketLove.htm">Brisket Love</a> visit).</p>
+        <h1>Name of Joint</h1>
+        <h2 MadCap:conditions="MicroContent.Topic">General Information</h2>
+        <p MadCap:conditions="MicroContent.Topic">Location:&#160;</p>
+        <p MadCap:conditions="MicroContent.Topic">Date Established: </p>
+        <p MadCap:conditions="MicroContent.Topic">Pitmaster: </p>
+        <p MadCap:conditions="MicroContent.Topic">Website: </p>
+        <p MadCap:conditions="MicroContent.Topic">Date Visited:&#160;</p>
+        <h2 MadCap:conditions="MicroContent.Topic">Overview</h2>
+        <p MadCap:conditions="MicroContent.Topic">A quick overview of my experience there.</p>
+        <h2 MadCap:conditions="MicroContent.Topic">Ron's Review</h2>
+        <p>What I ate there (e.g., <span class="FoodName">burnt ends</span>) and how I felt about each item.</p>
+        <h3 MadCap:conditions="MicroContent.Topic">Meats</h3>
+        <p>&#160;</p>
+        <h3 MadCap:conditions="MicroContent.Topic">Sides</h3>
+        <p>&#160;</p>
+        <h3 MadCap:conditions="MicroContent.Topic">Sauce</h3>
+        <p>&#160;</p>
+        <h3 MadCap:conditions="MicroContent.Topic">Dessert</h3>
+        <p>&#160;</p>
+        <h2 MadCap:conditions="MicroContent.Topic">Ron Rates It</h2>
+        <p MadCap:conditions="MicroContent.Topic">My rating, on a scale of 1 to 5 stars.</p>
+        <p>
+            <img src="../Images/yellow_star.png" />
+            <img src="../Images/yellow_star.png" /><a href="../Images/yellow_star.png"><img src="../Images/yellow_star.png" /><img src="../Images/yellow_star.png" /><img src="../Images/yellow_star.png" /><img src="../Images/yellow_half_star.png" /></a>
+        </p>
+        <p class="know" MadCap:autonum="&lt;b&gt;Know Before You Go: &lt;/b&gt;">Handy tips to know before you go there.</p>
+    </body>
+</html>
