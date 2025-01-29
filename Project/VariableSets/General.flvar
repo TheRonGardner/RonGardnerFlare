@@ -43,4 +43,10 @@
     Type="DateTime"
     LastUpdated="2023-08-29T21:42:47.2706797-05:00"
     EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="LastModifiedDate"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2025-01-29T10:02:22.3221488-06:00"
+    EvaluatedDefinition="MM/dd/yyyy">MM/dd/yyyy</Variable>
 </CatapultVariableSet>

@@ -26,6 +26,7 @@
         <div class="topic-layout">
             <div class="side-content"> <MadCap:menuProxy data-mc-skin="/Project/Skins/Topics-Menu.flskn" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" /></div>
             <MadCap:bodyProxy />
+            <p style="font-style: italic;">This topic was last modified on <MadCap:variable name="General.LastModifiedDate" />.</p>
         </div>
         <hr />
         <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />

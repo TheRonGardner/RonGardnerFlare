@@ -18,7 +18,8 @@
   UseCustomTopicFileExtension="true"
   CustomTopicFileExtension="html"
   MoveOutputContentToRoot="false"
-  OutputFile="index.html">
+  OutputFile="index.html"
+  SearchResultsSkin="/Project/Skins/SearchResults.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
