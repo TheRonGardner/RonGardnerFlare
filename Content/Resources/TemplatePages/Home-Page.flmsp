@@ -37,7 +37,6 @@
             </table>
         </div>
         <hr class="main-section" />
-        <p class="footer" MadCap:autonum="&lt;b&gt;Note:&#160;&lt;/b&gt;">If you want to get cranky about a review, my contact information is listed above.</p>
-        <p style="font-size: 10pt;">Copyright © <MadCap:variable name="General.Year" /></p>
+        <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />
     </body>
 </html>

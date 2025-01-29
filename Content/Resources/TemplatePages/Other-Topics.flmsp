@@ -11,10 +11,10 @@
 			@import url('https://fonts.googleapis.com/css2?family=Raleway');
 		</style>
         <!-- End Raleway Font API Call -->
-		<!-- Back To Top Button -->
-		<script type="text/javascript" defer="defer" src="../Scripts/BackTotop.js">
-		</script>
-		<!-- End Back To Top Button -->	
+        <!-- Back To Top Button -->
+        <script type="text/javascript" defer="defer" src="../Scripts/BackTotop.js">
+        </script>
+        <!-- End Back To Top Button -->
     </head>
     <body>
         <div class="side-content">
@@ -28,7 +28,6 @@
             <MadCap:bodyProxy />
         </div>
         <hr />
-        <p class="footer" MadCap:autonum="&lt;b&gt;Note:&#160;&lt;/b&gt;" style="text-align: center;">If you want to get cranky about a review, my contact information is on the <a href="../../Home.htm">Home</a> and <a href="../../Howdy/AboutMe.htm">About Me</a> pages.</p>
-        <p style="font-size: 10pt;text-align: center;">Copyright © <MadCap:variable name="General.Year" /></p>
+        <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />
     </body>
 </html>
