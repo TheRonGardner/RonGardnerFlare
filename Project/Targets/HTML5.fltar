@@ -5,7 +5,7 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
+  MasterPage="/Content/Resources/TemplatePages/Copy of Other-Topics.flmsp"
   ConditionTagExpression="include[Default.Certification or Default.InternalOnly or Default.WebOnly], exclude[Default.BlogOnly or Default.InProcess or Default.PrintOnly]"
   ShowMadCapBacklink="false"
   MasterToc="/Project/TOCs/Online.fltoc"

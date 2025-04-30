@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 :root
 {
@@ -632,7 +632,6 @@ p.footer
 	color: #000000;
 	font-style: italic;
 	font-size: 10pt;
-	mc-auto-number-format: '{b}Note: {/b}';
 }
 
 p.footer-sub
@@ -998,25 +997,26 @@ p.column
 
 #myBtn
 {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 30px;
-    z-index: 99;
-    font-size: 12px;
-    font-weight: bold;
-    border: none;
-    outline: none;
-    color: #ffffff;
-    cursor: pointer;
-    padding: 10px;
-    border-radius: 10px;
-    background-position: center;
-    background-repeat: no-repeat;
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	font-size: 12px;
+	font-weight: bold;
+	border: none;
+	outline: none;
+	color: #ffffff;
+	cursor: pointer;
+	padding: 10px;
+	border-radius: 10px;
+	background-position: center;
+	background-repeat: no-repeat;
 	background-color: var(--Brand1);
 }
 
 #myBtn:hover
 {
-    color: var(--Gray);
+	color: var(--Gray);
 }
+

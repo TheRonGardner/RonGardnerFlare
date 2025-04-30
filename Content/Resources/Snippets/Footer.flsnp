@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
-        <MadCap:changeData>
-            <MadCap:AttributesChange MadCap:userName="TheRonGardner" MadCap:initials="TH" MadCap:id="1" MadCap:timestamp="2025-01-29T10:08:25.7957490-06:00" MadCap:attribute="style" MadCap:value="text-align: center;" />
-        </MadCap:changeData>
     </head>
     <body>
-        <p class="footer" style="text-align: center;font-style: normal;" MadCap:autonum="&lt;b&gt;Note:&#160;&lt;/b&gt;" MadCap:changes="1">If you want to get cranky about a review, my contact information is on the <a href="../../Home.htm">Home</a> and <a href="../../Howdy/AboutMe.htm">About Me</a> pages.</p>
-        <p style="font-size: 10pt;text-align: center;">Copyright © <MadCap:variable name="General.Year" /></p>
+        <p class="footer" style="text-align: center;font-style: normal;">If you want to get cranky about a review, my contact information is on the <a href="../../Home.htm">Home</a> and <a href="../../Howdy/AboutMe.htm">About Me</a> pages.</p>
+        <p class="footer" style="text-align: center;font-style: normal;">Copyright © <MadCap:variable name="General.Year" /></p>
+        <p class="footer" style="text-align: center;font-style: normal;">This topic was last modified on <MadCap:variable name="General.LastModifiedDate" />.</p>
     </body>
 </html>

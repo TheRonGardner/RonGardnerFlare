@@ -118,5 +118,8 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/MoreInfo/InClosing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MoreInfo/FormTest.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>

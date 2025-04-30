@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <!-- Arvo Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Arvo');
+		</style>
+        <!-- End Raleway Font API Call -->
+        <!-- Raleway Font API Call -->
+        <style>
+			@import url('https://fonts.googleapis.com/css2?family=Raleway');
+		</style>
+        <!-- End Raleway Font API Call -->
+        <!-- Back To Top Button -->
+        <script type="text/javascript" defer="defer" src="../Scripts/BackTotop.js">
+        </script>
+        <!-- End Back To Top Button -->
+    </head>
+    <body>
+        <div class="side-content">
+            <MadCap:searchBarProxy data-mc-skin="/Project/Skins/Topics-Searchbar.flskn" />
+        </div>
+        <div>
+            <MadCap:breadcrumbsProxy />
+        </div>
+        <div class="topic-layout">
+            <div class="side-content"> <MadCap:menuProxy data-mc-skin="/Project/Skins/Topics-Menu.flskn" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" /></div>
+            <MadCap:bodyProxy />
+            <div>
+                <form action="Results.html" method="GET">
+                    <h1>Give Feedback</h1>
+                    <p>Was this topic helpful?</p>
+                    <div>
+                        <input type="radio" id="yes" name="helpful" value="Yes" />
+                        <label for="yes">Yes</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="no" name="helpful" value="No" />
+                        <label for="no">No</label>
+                    </div>
+                    <div>
+                        <p>Do you have feedback on this topic?</p><textarea id="feedback" name="feedback" rows="4" cols="50" placeholder="Enter your comments here"></textarea>
+                    </div>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+        <hr />
+        <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />
+    </body>
+</html>
