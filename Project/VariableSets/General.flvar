@@ -49,4 +49,12 @@
     Type="DateTimeFileSaved"
     LastUpdated="2025-01-29T10:02:22.3221488-06:00"
     EvaluatedDefinition="MM/dd/yyyy">MM/dd/yyyy</Variable>
+  <Variable
+    Name="Top 50 Link"
+    Comment=""
+    EvaluatedDefinition="https://www.texasmonthly.com/interactive/top-50-bbq-2025/">https://www.texasmonthly.com/interactive/top-50-bbq-2025/</Variable>
+  <Variable
+    Name="Honorable Mention Link"
+    Comment=""
+    EvaluatedDefinition="https://www.texasmonthly.com/bbq/best-texas-bbq-honorable-mentions/">https://www.texasmonthly.com/bbq/best-texas-bbq-honorable-mentions/</Variable>
 </CatapultVariableSet>
